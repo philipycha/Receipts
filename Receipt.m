@@ -6,7 +6,7 @@
 //  Copyright © 2016 Philip Ha. All rights reserved.
 //
 
-#import "Receipt+CoreDataClass.h"
+#import "Receipt.h"
 #import "Tag.h"
 @implementation Receipt
 
