@@ -18,6 +18,7 @@
 		15AEAC851D9D978D006F9A5C /* Receipt+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 15AEAC7F1D9D978D006F9A5C /* Receipt+CoreDataProperties.m */; };
 		15AEAC861D9D978D006F9A5C /* Tag.m in Sources */ = {isa = PBXBuildFile; fileRef = 15AEAC811D9D978D006F9A5C /* Tag.m */; };
 		15AEAC871D9D978D006F9A5C /* Tag+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 15AEAC831D9D978D006F9A5C /* Tag+CoreDataProperties.m */; };
+		15AEAC8A1D9D9A74006F9A5C /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 15AEAC891D9D9A74006F9A5C /* TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		15AEAC811D9D978D006F9A5C /* Tag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Tag.m; path = ../Tag.m; sourceTree = "<group>"; };
 		15AEAC821D9D978D006F9A5C /* Tag+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Tag+CoreDataProperties.h"; path = "../Tag+CoreDataProperties.h"; sourceTree = "<group>"; };
 		15AEAC831D9D978D006F9A5C /* Tag+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "Tag+CoreDataProperties.m"; path = "../Tag+CoreDataProperties.m"; sourceTree = "<group>"; };
+		15AEAC881D9D9A74006F9A5C /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		15AEAC891D9D9A74006F9A5C /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,11 +83,13 @@
 				15AEAC811D9D978D006F9A5C /* Tag.m */,
 				15AEAC821D9D978D006F9A5C /* Tag+CoreDataProperties.h */,
 				15AEAC831D9D978D006F9A5C /* Tag+CoreDataProperties.m */,
-				15AEAC651D9D6CBA006F9A5C /* AppDelegate.h */,
-				15AEAC661D9D6CBA006F9A5C /* AppDelegate.m */,
 				15AEAC681D9D6CBA006F9A5C /* ViewController.h */,
 				15AEAC691D9D6CBA006F9A5C /* ViewController.m */,
 				15AEAC6B1D9D6CBA006F9A5C /* Main.storyboard */,
+				15AEAC651D9D6CBA006F9A5C /* AppDelegate.h */,
+				15AEAC661D9D6CBA006F9A5C /* AppDelegate.m */,
+				15AEAC881D9D9A74006F9A5C /* TableViewCell.h */,
+				15AEAC891D9D9A74006F9A5C /* TableViewCell.m */,
 				15AEAC711D9D6CBA006F9A5C /* Assets.xcassets */,
 				15AEAC731D9D6CBA006F9A5C /* LaunchScreen.storyboard */,
 				15AEAC761D9D6CBA006F9A5C /* Info.plist */,
@@ -178,6 +183,7 @@
 				15AEAC701D9D6CBA006F9A5C /* Receipts.xcdatamodeld in Sources */,
 				15AEAC871D9D978D006F9A5C /* Tag+CoreDataProperties.m in Sources */,
 				15AEAC6A1D9D6CBA006F9A5C /* ViewController.m in Sources */,
+				15AEAC8A1D9D9A74006F9A5C /* TableViewCell.m in Sources */,
 				15AEAC861D9D978D006F9A5C /* Tag.m in Sources */,
 				15AEAC841D9D978D006F9A5C /* Receipt.m in Sources */,
 				15AEAC671D9D6CBA006F9A5C /* AppDelegate.m in Sources */,
