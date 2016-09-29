@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Receipt" syncable="YES"/>
+    <entity name="Tag" syncable="YES"/>
+    <elements>
+        <element name="Receipt" positionX="-27" positionY="18" width="128" height="45"/>
+        <element name="Tag" positionX="18" positionY="63" width="128" height="45"/>
+    </elements>
+</model>
